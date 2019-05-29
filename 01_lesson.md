@@ -183,4 +183,4 @@ echo "At the end we have:\n
 
 [Правила для студентов](rules.md)
 
-[Второй Урок](02_Boolean_algebra_control_structures.md)
+[Второй Урок](02_lesson.md)
