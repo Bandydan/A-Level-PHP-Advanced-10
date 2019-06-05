@@ -166,3 +166,5 @@ if (9 % 2) echo 'not zero!';
 
 [Домашнее задание](02_homework.md)
 
+
+[Третий Урок](03_lesson.md)
