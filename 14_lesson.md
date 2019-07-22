@@ -79,6 +79,12 @@ INSERT INTO authors_books (author_id, book_id) VALUES
 	(4, 2);
 ```
 
+
+![](http://homes.ieu.edu.tr/culudagli/files/CE223/MySQL/mysql-jointypes-1.png)
+
+
+
+
 Данные готовы, теперь можно изучать объединения таблиц. Начнем мы с объединения двух таблиц в одном запросе:
 
 ```sql
@@ -227,5 +233,3 @@ FROM
 - Объединить авторов с книгами посредством таблицы связей
 - Освоить ключевое слово DISTINCT
 - Построить фамильное древо по мужской линии
-
-![](http://stevestedman.com/wp-content/uploads/VennDiagram2.pdf)
